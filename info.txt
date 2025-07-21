@@ -1,1 +1,3 @@
 Eto moi pervyi Git fail
+Dobavili izmeneniya v novoi vetke
+
